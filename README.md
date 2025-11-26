@@ -1,5 +1,5 @@
 ## Background
-Example repo to test basic functionalities of [ofi-librabric-sys](github.com/kyle-yh-kim/ofi-libfabric-sys-example) crate.
+Example repo to test basic functionalities of [ofi-libfabric-sys](https://crates.io/crates/ofi-libfabric-sys) crate.
 
 ## How to build & run
 ```
